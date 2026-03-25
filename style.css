@@ -1,0 +1,16 @@
+/* styles */
+/* feste breite,höhe */
+canvas {
+	width: 900px;
+	height: 635px;  
+	background: url("train.jpg");
+	background-size: 100% 100%;
+	border: 1px solid #333;
+}
+.status {
+	width: 150px;
+	background-color: red;
+	background-size: 100% 100%;
+	border: 1px solid;
+	font-weight: bold;
+}
